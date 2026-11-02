@@ -1,9 +1,9 @@
 # Loopr
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-242933?logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?logo=shadcnui&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-242933?logo=shadcnui&logoColor=white)
 
 Social app for developers — post loops, comment, like, bookmark, follow, DM (E2EE), notifications. Built with Next.js 16 + Supabase (Postgres + Auth + Storage).
 
